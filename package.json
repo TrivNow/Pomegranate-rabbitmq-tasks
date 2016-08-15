@@ -1,0 +1,25 @@
+{
+  "name": "pomegranate-rabbitmq-tasks",
+  "version": "0.0.0",
+  "description": "Listens and reacts to RabbitMQ tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrivNow/Pomegranate-rabbitmq-tasks.git"
+  },
+  "keywords": [
+    "Pomegranate",
+    "Plugin",
+    "RabbitMQ",
+    "amqp"
+  ],
+  "author": "Jim <monstertke@paperelectron.com> (http://paperelectron.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrivNow/Pomegranate-rabbitmq-tasks/issues"
+  },
+  "homepage": "https://github.com/TrivNow/Pomegranate-rabbitmq-tasks#readme"
+}
