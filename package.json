@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-rabbitmq-tasks",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Listens and reacts to RabbitMQ tasks",
   "main": "index.js",
   "scripts": {
